@@ -1,0 +1,18 @@
+{
+  "domain": "energa",
+  "name": "Energa",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/energa",
+  "requirements": [
+    "requests==2.26.0"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@peel"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "0.0.1"
+}
